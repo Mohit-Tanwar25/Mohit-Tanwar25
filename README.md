@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Mohit 👋  
 
 🎓 I'm a **BCA (Bachelor of Computer Applications) student** passionate about technology, programming, and building innovative projects.  
@@ -11,7 +8,7 @@
 - 👯 Looking to collaborate on beginner-friendly open-source projects and coding communities  
 - 🤔 Exploring areas like **Software Development, Database Management, and Cloud Computing**  
 - 💬 Ask me about **Java, C, C++, .NET, Android, or Web Development basics**  
-- 📫 Reach me at: **[your email/LinkedIn/GitHub link]**  
+- 📫 Reach me at: **[tanwarmohit455@gmail.com]**  
 - ⚡ Fun fact: I love solving logical problems and exploring new tools that make development easier  
 
 ---
