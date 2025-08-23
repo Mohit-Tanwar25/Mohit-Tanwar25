@@ -10,55 +10,43 @@
 - 👯 Looking to collaborate on beginner-friendly open-source projects and coding communities  
 - 🤔 Exploring areas like **Software Development, Database Management, and Cloud Computing**  
 - 💬 Ask me about **Java, C, C++, .NET, Android, or Web Development basics**  
-- 📫 Reach me at: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
+- 📫 Reach me at:[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)  
 - ⚡ Fun fact: I love solving logical problems and exploring new tools that make development easier  
 
 ---
 
 ## 🛠️ Languages & Tools  
 
-<p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-</p>
+### Programming  
+![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 
-<p align="center">
-  <!-- Web Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-</p>
+### Web Development  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="60" height="60"/>
-</p>
+### Frameworks & Platforms  
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
 
-<p align="center">
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" height="60"/>
-</p>
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="60" height="60"/>
-</p>
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Tanwar25&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Tanwar25&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Tanwar25&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Tanwar25&layout=compact&theme=tokyonight)  
 
 ---
 
