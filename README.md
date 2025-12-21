@@ -44,9 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Tanwar25&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Tanwar25&layout=compact&theme=tokyonight)  
 
 ---
 
