@@ -44,7 +44,8 @@
 
 ---
 
+⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*  
 
 ---
 
-⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*  
+
