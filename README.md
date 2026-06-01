@@ -11,9 +11,7 @@
 - 👯 Looking to collaborate on beginner-friendly open-source projects and coding communities  
 - 🤔 Exploring areas like **Software Development, Database Management, and Cloud Computing**  
 - 💬 Ask me about **Java, C, C++, .NET, Android, or Web Development basics**  
-- 📫 Reach me at:  
-  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)  
-
+- 📫 Reach me at:  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)  
 - ⚡ Fun fact: I love solving logical problems and exploring new tools that make development easier  
 
 ---
@@ -50,4 +48,5 @@
 ---
 
 ⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*  
+
 ```
