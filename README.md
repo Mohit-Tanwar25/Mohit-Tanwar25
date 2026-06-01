@@ -45,6 +45,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 
 
+
 ---
 
 ⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*  
