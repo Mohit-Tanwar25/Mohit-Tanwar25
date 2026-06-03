@@ -50,6 +50,16 @@
 
 ---
 
+### 📌 Interests & Focus Areas
+
+-  **Software Development:** Building robust backend logic and scalable applications.
+-  **UI/UX Design:** Crafting clean, accessible, and highly intuitive user interfaces.
+-  **Open Source Projects:** Collaborating with global communities and contributing to impactful projects.
+-  **Problem Solving:** Cracking complex algorithmic puzzles and optimizing code performance.
+
+---
+
+
 ## 🌐 Connect With Me 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/addiction.xd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-tanwar-48b210323)
