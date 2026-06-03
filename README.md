@@ -8,14 +8,15 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on academic and personal projects to strengthen my development skills  
-- 🌱 Learning **Java, .NET Framework, Android Development, and Web Technologies**  
-- 👯 Looking to collaborate on beginner-friendly open-source projects and coding communities  
-- 🤔 Exploring areas like **Software Development, Database Management, and Cloud Computing**  
-- 💬 Ask me about **Java, C, C++, .NET, Android, or Web Development basics**  
-- 📫 Reach me at:  [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)  
-- ⚡ Fun fact: I love solving logical problems and exploring new tools that make development easier  
+## 🧑‍💻 About Me
+
+I'm a passionate developer currently focused on academic and personal projects that sharpen my skills across **Java, .NET Framework, Android Development, and Web Technologies**. I enjoy diving deep into **Software Development, Database Management, and Cloud Computing** — always curious, always building.
+
+I'm actively looking to collaborate on beginner-friendly open-source projects and connect with like-minded coding communities. Whether it's **Java, C, C++, .NET, Android, or Web Development basics** — feel free to ask me anything!
+
+Outside of code, I love solving logical problems and exploring new tools that make development smoother and smarter. ⚡
+
+📫 Reach me at: [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)
 
 ---
 
