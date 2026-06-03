@@ -61,11 +61,14 @@ Outside of code, I love solving logical problems and exploring new tools that ma
 ---
 
 
-## 🌐 Connect With Me 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/addiction.xd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-tanwar-48b210323)
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/addiction.xd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-tanwar-48b210323)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanwarmohit455@gmail.com)
 
 ---
+
 
 ⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*  
 
