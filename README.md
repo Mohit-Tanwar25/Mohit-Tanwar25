@@ -1,4 +1,7 @@
-#
+<p align="center">
+  <img src="./profile-banner.png" alt="Mohit Tanwar - Full Stack Developer">
+</p>
+
 <h1 align="center">
   Hi, I am <i></i> Mohit Tanwar 
 </h1> 
