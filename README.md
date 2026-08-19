@@ -85,5 +85,8 @@ Outside of code, I love solving logical problems and exploring new tools that ma
 <h2 align="center">🐍 My Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohit-Tanwar25/Mohit-Tanwar25/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img
+    src="https://raw.githubusercontent.com/Mohit-Tanwar25/Mohit-Tanwar25/output/dist/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  >
 </p>
