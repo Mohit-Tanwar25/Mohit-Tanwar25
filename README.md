@@ -81,8 +81,17 @@ Outside of code, I love solving logical problems and exploring new tools that ma
 
 
 ⭐️ *Always eager to learn and contribute to real-world projects while enhancing my skills as a developer.*
+    and also
 
 ---
+
+
+<p align="center">
+  <b>🕷️ With great code comes great responsibility.</b>
+</p>
+
+
+
 
 
 
