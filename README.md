@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I am <i></i> Mohit Tanwar 
+  Hi, I am <i></i> Mohit
 </h1> 
 
 🎓 I'm a **BCA (Bachelor of Computer Applications) student** passionate about technology, programming, and building innovative projects.  
