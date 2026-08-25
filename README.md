@@ -3,11 +3,14 @@
 </p>
 
 <h1 align="center">
-  Hi, I am <i></i> Mohit
+  Hi, I am <i></i> Mohit Tanwar
 </h1> 
+<div align="center">
 
-🎓 I'm a **BCA (Bachelor of Computer Applications) student** passionate about technology, programming, and building innovative projects.  
+💻 Developer | 🎓 BCA Student | ☁️ Cloud & Software Enthusiast
 
+</div>
+                                    
 ---
 
 ## 🧑‍💻 About Me
