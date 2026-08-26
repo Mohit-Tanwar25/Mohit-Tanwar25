@@ -90,7 +90,12 @@ Outside of code, I love solving logical problems and exploring new tools that ma
   <b>🕷️ With great code comes great responsibility.</b>
 </p>
 
+<div align="center">
+  
+   ![snake gif](https://github.com/Mohit-Tanwar25/Mohit-Tanwar25/blob/output/github-snake-dark.svg)
 
+
+</div>
 
 
 
