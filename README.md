@@ -93,8 +93,11 @@ Outside of code, I love solving logical problems and exploring new tools that ma
 
 <div align="center">
   
-   ![snake gif](https://github.com/Mohit-Tanwar25/Mohit-Tanwar25/blob/output/github-snake-dark.svg)
-
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit-Tanwar25/Mohit-Tanwar25/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohit-Tanwar25/Mohit-Tanwar25/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Mohit-Tanwar25/Mohit-Tanwar25/output/github-snake-dark.svg">
+</picture>
 
 </div>
 
